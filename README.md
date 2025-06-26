@@ -15,9 +15,16 @@ A real-time object detection Android application built with Kotlin, TensorFlow L
 
 ## 📱 Demo
 
-![Demo Video](Demo.mp4)
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px 0;">
+  <img src="Image1.jpeg" alt="App Screenshot 1" width="300" style="flex-shrink: 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="Image2.jpeg" alt="App Screenshot 2" width="300" style="flex-shrink: 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
-*Watch the demo video above to see the app in action - real-time object detection with camera and gallery image analysis.*
+### 📲 Download Demo APK
+
+[![Download APK](https://img.shields.io/badge/Download-Demo%20APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1SpbFORqq2wv1ieKcqPXlrihURvV3mSNo/view?usp=share_link)
+
+*Download and install the demo APK to try the app on your Android device. Make sure to enable "Install from Unknown Sources" in your device settings.*
 
 ## 🚀 Technical Stack
 
